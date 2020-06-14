@@ -1,0 +1,5 @@
+http://www.google.com/mail/user=fulano
+ssh://fulano%senha@git.com/
+ftp://joe_bozo:bl123@internet.address.edu/path/file.gz
+https://yoursite.com/yourpage/greeting=hello&id=2014&name1=value1
+http%3A%2F%2Ffonzi.com%2F%26name%3DFonzi%26mood%3Dhappy%26coat%3Dleather
