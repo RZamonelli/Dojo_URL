@@ -1,4 +1,5 @@
-http://www.google.com/mail/user=fulano
+http://www.google.com/mail/user=fulano&password=test1
+http://www.google.com/mail/jail/pwd=teste&user=fulano
 ssh://fulano%senha@git.com/
 ftp://joe_bozo:bl123@internet.address.edu/path/file.gz
 https://yoursite.com/yourpage/greeting=hello&id=2014&name1=value1
