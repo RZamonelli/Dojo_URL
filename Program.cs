@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace ConsoleApp8
+namespace URL
 {
     class Program
     {
@@ -12,7 +12,7 @@ namespace ConsoleApp8
                 int counter = 0;
                 string line;
 
-                using (StreamReader sr = new StreamReader(@"C:\Users\320028367\source\repos\ConsoleApp8\ConsoleApp8\Util\url.txt"))
+                using (StreamReader sr = new StreamReader(@"C:\Users\Renan\Documents\GitHub\Dojo_URL\Util\url.txt"))//change this path
                 {
                     while ((line = sr.ReadLine()) != null)
                     {
